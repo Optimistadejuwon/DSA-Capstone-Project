@@ -70,6 +70,7 @@ appropriately spent shipping costs based on the Order Priority? Explain your ans
 3. Total Sales in Ontario are 202,346.83
 4. To enhance revenue from the bottom 10 customers, KMS could consider implementing a credit facility along with incentive-based sales promotions. These strategies can empower these customers' purchasing capabilities, ultimately leading to increased revenue from this segment.
 5. KMS incurred the most shipping cost using a Delivery Truck	with a total sum of 51,971.93
+6. 
 
 
 

@@ -1,2 +1,2 @@
 # DSA-Capstone-Project
-### This repository showcases my capstone project developed in collaboration with the DSA Incubator program. This project focuses on analyzing data to identify key performance indicators or developing a predictive model.
+##### This repository highlights my capstone project, which I developed in collaboration with the DSA Incubator program. The project is dedicated to analysing data to identify key performance indicators and to create a predictive model that enhances decision-making and drives insights.
